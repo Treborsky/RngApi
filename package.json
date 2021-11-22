@@ -1,0 +1,14 @@
+{
+  "name": "rng-api",
+  "version": "1.0.0",
+  "description": "An api that returns a list of random numbers",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Koziarski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
